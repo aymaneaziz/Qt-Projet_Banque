@@ -1,1 +1,1 @@
-Projet de gestion de banque c++ et framework qt
+Projet de gestion de banque c++ et framework QT
